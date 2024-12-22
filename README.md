@@ -6,17 +6,15 @@ This is a simple website project that serves as a template for building web appl
 
 ```
 my-website-project
-├── src
-│   ├── index.html          # Main HTML document
-│   ├── styles              # Directory for CSS files
-│   │   └── main.css        # Main stylesheet
-│   ├── scripts             # Directory for JavaScript files
-│   │   └── main.js         # Main JavaScript file
-│   └── assets              # Directory for project assets
-│       └── README.md       # Documentation for assets
-├── package.json            # npm configuration file
-├── .gitignore              # Git ignore file
-└── README.md               # Project documentation
+├── index.html
+├── styles
+│   └── main.css
+├── scripts
+│   └── main.js
+├── assets
+│   └── JWIII.webp
+├── package.json
+└── README.md
 ```
 
 ## Getting Started
